@@ -9,4 +9,4 @@ When editing save files in Kerbal Space Program it is sometimes useful to know a
 Usage
 -----
 
-**python enumerate.py PATH**
+	python enumerate.py PATH
